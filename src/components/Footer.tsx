@@ -1,4 +1,5 @@
-//Footer
+//Footers
+//s
 import React from 'react';
 import {
   MapPin,
